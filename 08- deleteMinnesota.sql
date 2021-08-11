@@ -1,0 +1,1 @@
+DELETE FROM destinations WHERE name = 'Minnesota';

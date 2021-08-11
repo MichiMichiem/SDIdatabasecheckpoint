@@ -1,0 +1,1 @@
+UPDATE destinations SET cost_of_flight = 1000 WHERE name = 'New Zealand';
